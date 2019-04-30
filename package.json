@@ -1,0 +1,9 @@
+{
+  "name": "@alvinleung1996/stricter-es-types",
+  "version": "1.0.0",
+  "description": "Enhanced types over builtins",
+  "author": "Alvin Leung 1996",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "devDependencies": {}
+}
